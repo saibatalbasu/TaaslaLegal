@@ -1,0 +1,5 @@
+Zaynab Nadada 191212022 Software Engineering
+
+Project brief description
+
+This project is a simple business blog; where textual and visual information about products(a clothing brand named 'Zaynab Nadada') are being displayed. This includes a home page where a general introduction is done, an about page where the company information is seen, a portfolio page where the product pictures are seen, and testimonies from loyal customers, then finally a Page where interested customers can contact the company 
